@@ -1,5 +1,5 @@
 # Election-Anaylsis
-Pytho
+
 # Project Overview
 A Colorado Board of Elections employee has given me the following task to complete the elections audit of a recent local congressional election.
 
